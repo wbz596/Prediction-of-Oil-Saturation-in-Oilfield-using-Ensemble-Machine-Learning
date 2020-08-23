@@ -3,11 +3,11 @@
 This project aim to develop a data-driven reservoir characterization workflow. The ensemble machine learning workflow is presented to predict the time-lapse wellbore oil saturation profile, using field-wide production and injection data.
 
 # Data Description
-This study utilizes data from the Volve oilfield, located in the central part of the North Sea, 200 km west of Stavanger at the southern end of the Norwegian sector
+1. This study utilizes data from the Volve oilfield, located in the central part of the North Sea, 200 km west of Stavanger at the southern end of the Norwegian sector.
 
 <img src="https://raw.githubusercontent.com/wbz596/Prediction-of-Oil-Saturation-in-Oilfield-using-Ensemble-Machine-Learning/master/img/3.png" width="50%" height="50%">
+2. A black-oil heterogeneous reservoir model was built with the seven producers and three injectors.The areal field map with the well locations is shown as below:
 
-A black-oil heterogeneous reservoir model was built with the seven producers and three injectors.The areal field map with the well locations is shown as below:
 <img src="https://raw.githubusercontent.com/wbz596/Prediction-of-Oil-Saturation-in-Oilfield-using-Ensemble-Machine-Learning/master/img/2.png" width="50%" height="50%">
 
 # Methodology
